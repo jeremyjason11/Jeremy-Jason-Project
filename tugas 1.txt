@@ -1,0 +1,81 @@
+Jeremy Jason
+2101719623
+
+<html>
+<head>
+       <title>Tugas 1</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+        <div>JERSTORE>ID</div>
+
+        <div><a href="www.facebook.com">Beranda</a>
+            <a href="www.instagram.com">Registrasi </a>
+
+
+        </div>
+       <img src="jerstore logo.jpg" alt="" style="width:1000px;height:400px"/> 
+        <div>
+
+
+       <h1 style="color:red;">Forum Registrasi</h1>
+         <table border="0" style="center; color:#FF0001"
+                <tr>
+
+                 <td>Asal negara</td>
+                 <td>:</td>
+                 <td><select>
+                         <option>Negara</option> 
+                        <option>Indonesia
+                         </option><option>Malaysia
+                         </option> 
+                         <option>Japan
+                         </option> 
+                         <option>Korea
+                         </option> 
+                         <option>Los Angeles
+                         </option>
+                     </select>
+                 </td>
+                 </tr>   
+                 
+                 <tr>
+                     <td> Angka kesukaan  </td>
+                     <td> : </td>
+                     <td><input type="number" min="1" max="10 />"</td>
+                 </tr>
+                 <tr>
+
+                     <td> Warna Kesukaan</td>    
+                     <td>:</put type="color" </td>
+                  td>
+                     <td><in
+                 </tr>
+                 <tr>
+
+                     <td>Tanggal lahir</td>
+                     <td>:</td>
+                     <td><input type="date"</td>
+                 </tr>
+                 <tr>
+
+                     <td> Email </td>
+                     <td>:</td>
+                     <td><input type="text"</td>
+                     
+                 </tr>
+                 <tr>
+
+                     <td><input type="submit" name="submit" value="daftar"</td>
+                 </tr>
+                 
+        </div>
+        <div>
+            
+            <img src="Logo-NetBeans-160401-03.jpg" alt=""/>           
+        </div>
+        
+    </body>
+</html>
